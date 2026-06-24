@@ -72,9 +72,9 @@ source/leisaac/leisaac/devices/lerobot/.cache/lekiwi_leader.json
 scripts/environments/teleoperation/.cache/
 
 # scene assets
-assets/scenes/*
+!assets/scenes/*
 !assets/scenes/.gitkeep
-assets/robots/*
+!assets/robots/*
 !assets/robots/.gitkeep
 
 # greenscreen
